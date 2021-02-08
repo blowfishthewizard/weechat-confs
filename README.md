@@ -1,0 +1,2 @@
+# weechat-confs
+weechat confs
